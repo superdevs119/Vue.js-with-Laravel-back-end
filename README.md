@@ -1,1 +1,2 @@
-# Vue.js-with-Laravel-back-end
+# Vue.js with Laravel back-end
+OAuth functionality with Vue.JS
